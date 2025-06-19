@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/leejw3/react-for-beginners/static/js/main.6c36accb.js",
-    "index.html": "/leejw3/react-for-beginners/index.html",
-    "main.6c36accb.js.map": "/leejw3/react-for-beginners/static/js/main.6c36accb.js.map"
+    "main.js": "/react-for-beginners/static/js/main.a5dfc1f4.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.a5dfc1f4.js.map": "/react-for-beginners/static/js/main.a5dfc1f4.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c36accb.js"
+    "static/js/main.a5dfc1f4.js"
   ]
 }
